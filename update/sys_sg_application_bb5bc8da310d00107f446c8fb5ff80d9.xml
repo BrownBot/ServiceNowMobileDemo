@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <default>false</default>
+        <description>Manage your todos</description>
+        <icon display_value="file-alt">a75bcc5e310d00107f446c8fb5ff8028</icon>
+        <name>Todo</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 04:37:15</sys_created_on>
+        <sys_id>bb5bc8da310d00107f446c8fb5ff80d9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Todo</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_application_bb5bc8da310d00107f446c8fb5ff80d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 05:03:48</sys_updated_on>
+    </sys_sg_application>
+    <sys_translated_text action="delete_multiple" query="documentkey=bb5bc8da310d00107f446c8fb5ff80d9"/>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_map_screen">
+    <sys_sg_map_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="My Open Todos">b13ccc5e310d00107f446c8fb5ff8033</data_item>
+        <data_item_table>x_snc_k19tdm_todo</data_item_table>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">3a665812314d00107f446c8fb5ff80ab</icon>
+        <info>due_date</info>
+        <location>location</location>
+        <name>Todos by location</name>
+        <order>20</order>
+        <parent>3f5bc8da310d00107f446c8fb5ff80da</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <phone>user.mobile_phone</phone>
+        <pin_color>#FF0000</pin_color>
+        <pin_color_type>default</pin_color_type>
+        <roles_override/>
+        <sub_title>name</sub_title>
+        <sys_class_name>sys_sg_map_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 05:25:32</sys_created_on>
+        <sys_id>c766d852314d00107f446c8fb5ff80c1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Todos by location</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_map_screen_c766d852314d00107f446c8fb5ff80c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 05:36:02</sys_updated_on>
+        <tag>state</tag>
+        <tag_background_color>#7d8a8c</tag_background_color>
+        <tag_font_color>#ffffff</tag_font_color>
+        <tag_style>2d0e4c9e310d00107f446c8fb5ff8001,08ad889e310d00107f446c8fb5ff80c5</tag_style>
+        <title>number</title>
+    </sys_sg_map_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c766d852314d00107f446c8fb5ff80c1"/>
+</record_update>
